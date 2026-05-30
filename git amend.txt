@@ -1,0 +1,5 @@
+This a git amend learning file
+
+Login system related changes
+
+This is new line
